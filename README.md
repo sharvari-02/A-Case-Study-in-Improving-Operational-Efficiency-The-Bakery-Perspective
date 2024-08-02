@@ -9,3 +9,6 @@
    and optimize resource utilization, thereby contributing to a substantial increase in operational efficiency.
 
 ## Market Survey Analysis - 
+![Screenshot 2024-08-02 201550](https://github.com/user-attachments/assets/43159e79-a5ec-4e98-a91e-fb13c4feae53)
+
+## QFD Analysis -
