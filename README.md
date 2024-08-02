@@ -12,3 +12,5 @@
 ![Screenshot 2024-08-02 201550](https://github.com/user-attachments/assets/43159e79-a5ec-4e98-a91e-fb13c4feae53)
 
 ## QFD Analysis -
+![Screenshot 2024-08-02 202754](https://github.com/user-attachments/assets/7a8f425a-3585-461f-8f2c-ee1a7ed28a16)
+
